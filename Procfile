@@ -1,1 +1,1 @@
-web: gunicorn plotly_hw:app
+web: gunicorn app:app
